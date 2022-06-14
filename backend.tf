@@ -4,7 +4,7 @@ terraform {
     organization = "cloudzmista"
 
     workspaces {
-      name = "cloudz-dev"
+      name = "cloudz-prd"
     }
   }
 }
